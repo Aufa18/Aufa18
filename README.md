@@ -6,4 +6,4 @@
   <img src="aufabanner.jpg" width="800" />
 </p>
 <br>
-🛠️ Tech Stack<br><br>Frontend<br><p>  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" /></p>Backend<br><p>  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" /></p>Database<br><p>  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /></p>Tools<br><p>  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /></p><br><p align="center"><br>✨ “Code. Learn. Build. Improve.” ✨<br></p>
+🛠️ Tech Stack<br><br>Frontend<br><p>  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react" /></p>Backend<br><p>  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" /></p>Database<br><p>  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /></p>Tools<br><p>  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /></p><br><p align="center"><br>✨ “Code. Learn. Build. Improve.” ✨<br></p>
